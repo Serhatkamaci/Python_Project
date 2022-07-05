@@ -1,12 +1,5 @@
-# Numara : 20010011057
-# Ad : Serhat
-# Soyad : KAMACİ
-
 import time
-
 mesai = {}
-
-
 def Menu():
     print(
         "-----------------------------------------\n          SİRKET OTOMASYONU          \n\n1 -> Ekleme\n2 -> Arama\n3 -> Silme\n4 -> Guncelleme\n5 -> Bilgileri Gosterme\n6 -> Maas Hesaplama\n----------------------------------------\n")
