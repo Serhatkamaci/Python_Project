@@ -1,10 +1,4 @@
 print("""
-
-Adı = Serhat
-Soyadı = Kamacı
-Numara = 20010011057
-""")
-print("""
 -----------------------------------------------------
 
 Taban Cevirme Programi
